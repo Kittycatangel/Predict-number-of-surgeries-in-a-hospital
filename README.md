@@ -38,6 +38,7 @@ Df Model:	33
 Covariance Type:	nonrobust		
 coef	std err	t	P>|t|	[0.025	0.975]
 const	0.0698	0.217	0.321	0.748	-0.359	0.499
+
 surgeries_last_month_log	0.8169	0.041	19.937	0.000	0.736	0.898
 age_in_yrs_log	0.0227	0.040	0.560	0.576	-0.057	0.103
 service_id_2	0.2682	0.096	2.780	0.006	0.078	0.459
